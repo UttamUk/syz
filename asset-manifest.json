@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UttamUk/syz/static/css/main.f18d74c7.chunk.css",
+    "main.js": "/UttamUk/syz/static/js/main.05cd8f21.chunk.js",
+    "main.js.map": "/UttamUk/syz/static/js/main.05cd8f21.chunk.js.map",
+    "runtime-main.js": "/UttamUk/syz/static/js/runtime-main.1a23022f.js",
+    "runtime-main.js.map": "/UttamUk/syz/static/js/runtime-main.1a23022f.js.map",
+    "static/css/2.f0405d8a.chunk.css": "/UttamUk/syz/static/css/2.f0405d8a.chunk.css",
+    "static/js/2.80b66ab9.chunk.js": "/UttamUk/syz/static/js/2.80b66ab9.chunk.js",
+    "static/js/2.80b66ab9.chunk.js.map": "/UttamUk/syz/static/js/2.80b66ab9.chunk.js.map",
+    "index.html": "/UttamUk/syz/index.html",
+    "precache-manifest.8902144d8868fb76f8c33fb2ea0c8c7e.js": "/UttamUk/syz/precache-manifest.8902144d8868fb76f8c33fb2ea0c8c7e.js",
+    "service-worker.js": "/UttamUk/syz/service-worker.js",
+    "static/css/2.f0405d8a.chunk.css.map": "/UttamUk/syz/static/css/2.f0405d8a.chunk.css.map",
+    "static/css/main.f18d74c7.chunk.css.map": "/UttamUk/syz/static/css/main.f18d74c7.chunk.css.map",
+    "static/js/2.80b66ab9.chunk.js.LICENSE": "/UttamUk/syz/static/js/2.80b66ab9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a23022f.js",
+    "static/css/2.f0405d8a.chunk.css",
+    "static/js/2.80b66ab9.chunk.js",
+    "static/css/main.f18d74c7.chunk.css",
+    "static/js/main.05cd8f21.chunk.js"
+  ]
+}
